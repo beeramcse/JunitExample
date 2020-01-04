@@ -17,6 +17,8 @@
   <sonar.projectKey>beeramcse_JunitExample</sonar.projectKey>
   <sonar.organization>beeramcse</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>d2b05dbfd60300bfbbae02112d72fdcdda5d8b66</sonar.login>
+  
   </properties>
 
   <dependencies>
