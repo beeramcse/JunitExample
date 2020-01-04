@@ -25,5 +25,12 @@ public class StringHelper {
 
 		return first2Chars.equals(last2Chars);
 	}
-
+	
+	public void  append(){
+		
+		String str="";
+		for(int i=1;i<5;i++) {
+			str=str+","+i;
+		}
+	}
 }
